@@ -455,6 +455,13 @@ logEach( '%s', out );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-fixed-endian-float64`][@stdlib/array/fixed-endian-float64]</span><span class="delimiter">: </span><span class="description">Float64Array having a specified byte order.</span>
+-   <span class="package-name">[`@stdlib/array-float32`][@stdlib/array/float32]</span><span class="delimiter">: </span><span class="description">Float32Array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -485,7 +492,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -538,6 +545,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/wasm/memory]: https://github.com/stdlib-js/wasm-memory
 
 [@stdlib/array/float32]: https://github.com/stdlib-js/array-float32
+
+<!-- <related-links> -->
+
+[@stdlib/array/fixed-endian-float64]: https://github.com/stdlib-js/array-fixed-endian-float64
+
+<!-- </related-links> -->
 
 </section>
 
